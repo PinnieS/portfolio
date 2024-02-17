@@ -1,0 +1,22 @@
+* {
+  font-family: 'Protest Riot', sans-serif;
+}
+
+body {
+  background-color: #474f7a;
+  color: white;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+}
+
+
+section {
+  padding-top: 5rem;
+}
+
+.card img {
+  width: 100%;
+  height: max-content;
+}
